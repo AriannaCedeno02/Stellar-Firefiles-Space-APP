@@ -1,7 +1,9 @@
 # Stellar-Firefiles-Space-APP
 
 Nombre del Grupo: stellar-fireflies-force
+
 Tema de desafio: A new perspective
+
 Proyecto: Visual analysis with SSIM Method of the impact on the reduction of human transit in nature 
 
 Pàgina web del proyecto: https://stellar-fireflies-force.co/index.html (aveces da problemas en chrome)
@@ -17,7 +19,7 @@ para mejorar el manejo (imagenes en carpetas, videos en youtube, link de pagina 
 
 Se puede corroborar con los commits.
 
-ELegimos 3 factores para analizar
+Elegimos 3 factores para analizar
 - Vegetacion
 - Emision de dioxido de carbono
 - Transito de personas
